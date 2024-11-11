@@ -13,8 +13,8 @@ The ultimate tool to level up your **Rivals** experience. No fluff. Just pure po
 
 ### ⚙️ Setup
 
-1. Grab the **WazeHub** script and drop it into your Roblox world.
-2. No setup required. Just execute and watch the magic happen.
+- Grab the **WazeHub** script and drop it into your Roblox world.
+-  No setup required. Just execute and watch the magic happen.
 
 ---
 
